@@ -3,6 +3,6 @@ youtube-noflash
 
 When you get a youtube video thats says you need flash to play, this bookmarklet will change the video to the embed version which often works.
  
-Click the link below and then drag the bookmarklet to your bookmarks bar.
+Click on the link below and it will tkae you to a page where you can drag the bookmarklet to your bookmarks bar.
 
-[YT NoFlash](https://raw.github.com/sevitz/youtube-noflash/master/bookmarklet.js)
+[YT NoFlash Bookmarklet Page](http://sevitz.github.io/YouTubeNoFlashViewer/)
